@@ -1,1 +1,2 @@
-# Climate_Change_Educator_Page2
+# Climate Change Educator Page 2
+## This is Climate Change Educator Page 2
