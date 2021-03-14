@@ -1,20 +1,20 @@
+html{
+  margin: 1%;
+  background-color: #025955;
+}
 a {
   font-size: 18px;
-  color: white;
+  color: #8c0000 ;
   font-weight: bolder;
 }
 .boxed {
-  border: 1px solid white;
+  border: 1px solid #025955;
+  background-color: #025955;
 }
 h1 {
-  font-family: Cursive;
-  color: white;
+  font-family: Montserrat;
 }
-/* html {
-  background-color: black;
-} */
 body {
-  background-image: url("https://image.freepik.com/free-vector/sunrise-earth-space-view-realistic-poster_1284-9446.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -23,21 +23,40 @@ p {
   font-size: 18px;
   color: #f88f01;
   font-weight: 100;
+  word-wrap: break-word;
 }
 #content img {
   float: right;
   border: 2px black solid;
+  size: 1px;
   size: 20px;
-  width: 380px;
+  align-content: center;
 }
 img {
 size: 20px;
+width: 25rem;
+align-content: center;
 }
 h3,h2 {
   color: #7868e6;
   font-weight: bolder;
 }
 li {
-  color: white;
+  color: #025955;
+  text-decoration-color: #28527a;
   font-stretch: condensed;
+}
+.colored-section{
+  background-color: #3a6351;
+}
+.colored-section-2{
+  background-color: #78c4d4;
+}
+#cone{
+  margin: 1rem;
+}
+@media (max-width: 900px) {
+  h1{
+    font-size: 35px;
+  }
 }
