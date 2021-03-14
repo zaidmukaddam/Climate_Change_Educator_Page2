@@ -1,5 +1,5 @@
 function AlertIt() {
-var answer = confirm ("Please click on OK to continue to Page 2.")
+var answer = confirm ("Please click on OK to continue to Page One.")
 if (answer)
 window.location="https://zaidmukaddam.github.io/Climate_Change_Educator_Page1/"; 
 }
